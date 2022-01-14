@@ -16,14 +16,14 @@ Si vous avez des questions sur la réalisation, n'hésitez pas à me contacter �
 * [Resultat final](#resultat)
 
 ## Pieces
-* LED addressable : https://www.amazon.fr/gp/product/B01CDTEJBG/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1
-* Arduino nano : https://www.amazon.fr/gp/product/B0722YYBSS/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1
-* Cable USB 2.0 A vers Mini USB : https://www.amazon.fr/gp/product/B006ZZ1C4M?ie=UTF8&linkCode=sl1&tag=sparrowmake07-21&linkId=a0f7da9028ccd326710e3655a26a3a9c&language=fr_FR&ref_=as_li_ss_tl&th=1
-* Alimentation 5v 50w : https://www.amazon.fr/gp/product/B07YVBHH6K/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1 <br>
+* LED addressable : https://www.amazon.fr/gp/product/B01CDTEJBG/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1 (EUR 46,99)
+* Arduino nano : https://www.amazon.fr/gp/product/B0722YYBSS/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1 (EUR 24,99)
+* Alimentation 5v 50w : https://www.amazon.fr/gp/product/B07YVBHH6K/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1 (EUR 29,99) <br>
 NB : un calcul est nécessaire au niveau de l'alimentation, il faut compter environ 0,3W par LED, pour ma part cela fait donc 0,3 * 136 leds au total. 
-* [optionnel] Pièce en 3D : https://www.thingiverse.com/thing:4793999<br>
-* [optionnel] Gaines thermorétractable : https://www.amazon.fr/gp/product/B07YS5269R/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
-* [optionnel] Fils electrique cal 22 AWG : https://www.amazon.fr/gp/product/B07G72DRKC/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1
+* Cable USB 2.0 A vers Mini USB : https://www.amazon.fr/gp/product/B006ZZ1C4M?ie=UTF8&linkCode=sl1&tag=sparrowmake07-21&linkId=a0f7da9028ccd326710e3655a26a3a9c&language=fr_FR&ref_=as_li_ss_tl&th=1 (EUR 4,99€)
+* [optionnel] Pièce en 3D : https://www.thingiverse.com/thing:4793999
+* [optionnel] Gaines thermorétractable : https://www.amazon.fr/gp/product/B07YS5269R/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1 (EUR 10,99)
+* [optionnel] Fils electrique cal 22 AWG : https://www.amazon.fr/gp/product/B07G72DRKC/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1 (EUR 22,99)
 
 
 ## Setup
