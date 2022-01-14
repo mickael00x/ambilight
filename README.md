@@ -41,7 +41,7 @@ https://github.com/Wifsimster/adalight_ws2812
  #define NUM_LEDS #define DATA_PIN 6
 ```
 
-## Installation et paramétrage de Prismatik
+## Installation
 1. Sur le premier écran cliquez sur Next, puis choisissez « Adalight »
 ![github image](https://i0.wp.com/blog.gamerstuff.fr/wp-content/uploads/2020/01/tuto-ambilight-diy-07.jpg?w=446&h=250&ssl=1)
 2. Saissisez le serial port (l'USB sur lequel l'ardiuno est branché), le baudrate (laissez celui par défaut) et enfin le RGB
