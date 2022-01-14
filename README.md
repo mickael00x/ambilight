@@ -1,7 +1,7 @@
-# Ambilight
+# Ambilight  [Plus d'exemples](#resultat)
 ![github image](https://lh3.googleusercontent.com/pw/AM-JKLXWhA97hn9D-qbwrkPP0hHfKKH7MadzGFNt8cdrHaS9_OEa74gNvU6piaQ-k63bs65wTl4br35Hr32-J34S89FlrI_P4saTFCKz_5FsCSrShXqFstYUkIMzzmhYh6k8mrPryWUkY1uAcvSVKFxxLavN=w1718-h1289-no?authuser=0)
 ### Tutoriel perso inspirée de : https://blog.gamerstuff.fr/tuto-ambilight-diy/
- [Plus d'exemples](#resultat)
+
 
 ## General info
 Ce repo me sert de sauvegarde pour ce projet DYI. Je ne m'attribue aucun des mérites du tutoriel ci-dessus, je n'en fais que la promotion, entre autre.
