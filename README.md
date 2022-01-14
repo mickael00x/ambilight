@@ -13,7 +13,7 @@ Si vous avez des questions sur la réalisation, n'hésitez pas à me contacter �
 * [Installation de Prismatik](#installation)
 * [Resultat final](#resultat)
 
-## Pieces nécessaires : 
+## Pieces
 * LED addressable : https://www.amazon.fr/gp/product/B01CDTEJBG/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1
 * Arduino nano : https://www.amazon.fr/gp/product/B0722YYBSS/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&psc=1
 * Cable USB 2.0 A vers Mini USB : https://www.amazon.fr/gp/product/B006ZZ1C4M?ie=UTF8&linkCode=sl1&tag=sparrowmake07-21&linkId=a0f7da9028ccd326710e3655a26a3a9c&language=fr_FR&ref_=as_li_ss_tl&th=1
@@ -24,7 +24,7 @@ NB : un calcul est nécessaire au niveau de l'alimentation, il faut compter envi
 * [optionnel] Fils electrique cal 22 AWG : https://www.amazon.fr/gp/product/B07G72DRKC/ref=ppx_yo_dt_b_asin_title_o07_s01?ie=UTF8&th=1
 
 
-## Setup : 
+## Setup
 
 Download de la bibliothèque Adalight :
 ```bash 
